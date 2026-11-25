@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "RankMetric Intelligence"
+abstract: "Institution-neutral AI agent for ranking metrics: reconciles publication data, audits evidence, maps SDGs and runs scenario benchmarking without invented scores."
+type: software
+version: 1.0.0
+date-released: 2026-11-26
+license: MIT
+authors:
+  - family-names: "Shaik"
+    given-names: "Fahim"
+repository-code: "https://github.com/fahim6285/rankmetric-intelligence"
+keywords:
+  - ai-agent
+  - agent-skill
+  - research-metrics
+  - bibliometrics
+  - rankings
