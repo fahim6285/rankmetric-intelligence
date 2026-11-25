@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "fahim shaik"
+  },
+  "description": "Institution-neutral ranking intelligence, publication-data consolidation, evidence audits, and scenario benchmarking. Validate official methodology editions, normalize bibliographic identifiers, preserve provenance, reconcile metrics, and produce clear auditable reports without invented scores or records.",
+  "interface": {
+    "capabilities": [],
+    "category": "Other",
+    "defaultPrompt": null,
+    "developerName": "fahim shaik",
+    "displayName": "rankmetric-intelligence",
+    "longDescription": "Institution-neutral ranking intelligence, publication-data consolidation, evidence audits, and scenario benchmarking. Validate official methodology editions, normalize bibliographic identifiers, preserve provenance, reconcile metrics, and produce clear auditable reports without invented scores or records.",
+    "shortDescription": "Institution-neutral ranking intelligence, publication-data consolidation, evidence audits, and scenario benchmarking. Validate official methodology editions, normalize bibliographic identifiers, preserve provenance, reconcile metrics, and produce clear auditable reports without invented scores or records."
+  },
+  "name": "rankmetric-intelligence",
+  "version": "1.0.0"
+}
